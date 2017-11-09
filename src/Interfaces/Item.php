@@ -1,4 +1,4 @@
-<?php namespace Lachezargrigorov\Cart\Iterfaces;
+<?php namespace Lachezargrigorov\Cart\Interfaces;
 
 interface Item
 {
