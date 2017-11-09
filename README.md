@@ -35,7 +35,7 @@ The Cart and Item uses ***getCartPrice*** method to calculate the totals.
 
 ```php
 use Illuminate\Database\Eloquent\Model;
-use Lachezargrigorov\Cart\Iterfaces\Item;
+use Lachezargrigorov\Cart\Interfaces\Item;
 
 class Product extends Model implements Item {}
 ```
